@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 
 
-## Here are some ideas to get you started:
+### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on improve my programming skills
 - 🌱 I’m currently learning Programming with Python
